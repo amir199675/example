@@ -1,0 +1,60 @@
+@font-face {
+    font-family: IRANSansBlack;
+    src: url(../fonts/IRANSansBlack.ttf) format('truetype');
+}
+
+.logo {
+    text-align: center;
+}
+
+.div1 {
+    padding-top: 30px
+}
+
+.span1 {
+    padding-right: 15px
+}
+
+.class1 {
+    font-family: IRANSansBlack;
+    background: white;
+    font-size: 24px;
+}
+
+.class2 {
+    font-family: IRANSansBlack;
+    font-size: 22px;
+}
+
+.class3 {
+    font-family: IRANSansBlack;
+    color: white;
+}
+
+.class4 {
+    font-family: IRANSansBlack;
+    width: 180px;
+    background: white;
+    font-size: 24px;
+
+}
+
+.class5 {
+    font-family: IRANSansBlack;
+    width: 210px;
+    background: white;
+
+}
+
+.class6 {
+    font-family: IRANSansBlack;
+    color: white;
+    font-size: 20px;
+}
+
+.lable1 {
+    font-family: IRANSansBlack;
+    font-size: 22px;
+    text-align: center
+}
+

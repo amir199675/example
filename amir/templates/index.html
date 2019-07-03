@@ -1,0 +1,18 @@
+{% load amir_tags %}
+<form action="" method="post">
+    {% csrf_token %}
+    {{ uform }}
+    <button type="submit" name="uform_button">save</button>
+</form>
+<br>
+<br>
+<form action="" method="post">
+    {% csrf_token %}
+    <input type="text" name="username">
+    <input type="text" name="password">
+    <input type="email" name="email">
+    <input type="text" name="phone_number">
+    <button type="submit" name='upf_button'>save</button>
+</form>
+
+{{ amir }}
